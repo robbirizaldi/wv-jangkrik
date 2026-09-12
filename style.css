@@ -60,7 +60,7 @@ button {
             rgba(20, 30, 40, 0.48),
             rgba(20, 30, 40, 0.48)
         ),
-        url("../../assets/img/wv-jangkrik/wv-jangkrik.jpg")
+        url("https://res.cloudinary.com/bvfibuzz/image/upload/f_auto,q_auto/github_assets/wv-jangkrik/bg.jpg")
         center center / cover no-repeat;
 
     position: relative;
